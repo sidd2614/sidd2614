@@ -1,3 +1,4 @@
+![logo](https://github.com/sidd2614/sidd2614/blob/main/Beige%20Grey%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Siddesh Thorat</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
